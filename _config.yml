@@ -1,9 +1,9 @@
 menu:
-    Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
-    Rss: /atom.xml
+    博客: /
+    归档: /archives/
+#    Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/vigoals
+#    Rss: /atom.xml
 
 favicon: /favicon.png
 logo: /favicon.png
@@ -18,4 +18,4 @@ duoshuo:
 ga: UA-65933410-1
 
 # Copyright Infomation
-startyear: 2015
+startyear: 2016
